@@ -64,6 +64,7 @@ const Signup = () => {
             if(user){
                 navigate("/");
             }
+            //baba
         },[])
 
     return (
